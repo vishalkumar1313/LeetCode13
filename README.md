@@ -7,6 +7,7 @@ Problems which I solved
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -19,4 +20,12 @@ Problems which I solved
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
