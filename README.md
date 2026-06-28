@@ -39,4 +39,12 @@ Problems which I solved
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
