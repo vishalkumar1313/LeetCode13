@@ -43,8 +43,18 @@ Problems which I solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
