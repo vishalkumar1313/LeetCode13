@@ -60,4 +60,16 @@ Problems which I solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar1313/LeetCode13/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar1313/LeetCode13/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar1313/LeetCode13/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
