@@ -28,6 +28,7 @@ Problems which I solved
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -38,6 +39,7 @@ Problems which I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -72,4 +74,8 @@ Problems which I solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar1313/LeetCode13/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
