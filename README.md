@@ -41,6 +41,7 @@ Problems which I solved
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +80,5 @@ Problems which I solved
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
