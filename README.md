@@ -53,6 +53,7 @@ Problems which I solved
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ Problems which I solved
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/vishalkumar1313/LeetCode13/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0328-odd-even-linked-list) |
