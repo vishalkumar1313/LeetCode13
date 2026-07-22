@@ -40,6 +40,7 @@ Problems which I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/vishalkumar1313/LeetCode13/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0876-middle-of-the-linked-list) |
@@ -82,6 +83,7 @@ Problems which I solved
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vishalkumar1313/LeetCode13/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0328-odd-even-linked-list) |
