@@ -54,6 +54,7 @@ Problems which I solved
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
@@ -83,6 +84,7 @@ Problems which I solved
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0061-rotate-list) |
