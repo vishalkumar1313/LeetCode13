@@ -55,6 +55,7 @@ Problems which I solved
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ Problems which I solved
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkumar1313/LeetCode13/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vishalkumar1313/LeetCode13/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
