@@ -16,6 +16,7 @@ Problems which I solved
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vishalkumar1313/LeetCode13/tree/master/0402-remove-k-digits) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Problems which I solved
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vishalkumar1313/LeetCode13/tree/master/0402-remove-k-digits) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Problems which I solved
 | [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishalkumar1313/LeetCode13/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/vishalkumar1313/LeetCode13/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +96,5 @@ Problems which I solved
 | [0328-odd-even-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
