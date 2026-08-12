@@ -13,6 +13,7 @@ Problems which I solved
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vishalkumar1313/LeetCode13/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/1019-next-greater-node-in-linked-list) |
@@ -101,4 +102,16 @@ Problems which I solved
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/2487-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
