@@ -15,6 +15,7 @@ Problems which I solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/vishalkumar1313/LeetCode13/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vishalkumar1313/LeetCode13/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/1019-next-greater-node-in-linked-list) |
@@ -108,14 +109,17 @@ Problems which I solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
