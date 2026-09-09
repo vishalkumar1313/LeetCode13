@@ -112,6 +112,7 @@ Problems which I solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Problems which I solved
 | [0100-same-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,9 +129,14 @@ Problems which I solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
