@@ -98,6 +98,7 @@ Problems which I solved
 | [0025-reverse-nodes-in-k-group](https://github.com/vishalkumar1313/LeetCode13/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vishalkumar1313/LeetCode13/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vishalkumar1313/LeetCode13/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishalkumar1313/LeetCode13/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalkumar1313/LeetCode13/tree/master/0876-middle-of-the-linked-list) |
@@ -113,6 +114,7 @@ Problems which I solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vishalkumar1313/LeetCode13/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalkumar1313/LeetCode13/tree/master/0199-binary-tree-right-side-view) |
@@ -125,6 +127,7 @@ Problems which I solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vishalkumar1313/LeetCode13/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalkumar1313/LeetCode13/tree/master/0199-binary-tree-right-side-view) |
@@ -138,6 +141,7 @@ Problems which I solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vishalkumar1313/LeetCode13/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalkumar1313/LeetCode13/tree/master/0199-binary-tree-right-side-view) |
@@ -149,6 +153,7 @@ Problems which I solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vishalkumar1313/LeetCode13/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vishalkumar1313/LeetCode13/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vishalkumar1313/LeetCode13/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vishalkumar1313/LeetCode13/tree/master/0199-binary-tree-right-side-view) |
 ## DP on Trees
 |  |
